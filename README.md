@@ -1,5 +1,3 @@
-# BMW-Sales-Desciptive-Analysis
-BMW Sales Data Analysis (2010–2024) using Excel dataset. Includes data cleaning, exploration, and insights on sales trends, growth patterns, and market performance.
 # 🚗 BMW Sales Data Analysis (2010–2024)
 
 This project analyzes BMW sales data from 2010 to 2024. The goal is to explore trends, identify growth patterns, and generate insights that can help understand the company’s performance over time.
