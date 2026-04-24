@@ -28,9 +28,6 @@ This project analyzes BMW sales data from 2010 to 2024. The goal is to explore t
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel (Data cleaning & initial analysis)
-- Python (optional, if you used it)
-  - pandas
-  - matplotlib / seaborn
 
 ---
 
@@ -60,7 +57,6 @@ Key steps performed:
 - Certain years exhibit significant spikes/drops
 - Long-term trend indicates strong market performance
 
-*(Update this section with your actual findings if you have them)*
 
 ---
 
